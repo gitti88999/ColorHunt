@@ -1,0 +1,19 @@
+button{
+    background-color: white;
+    border: 1px solid rgb(223, 222, 222);
+    border-radius: 5px;
+    width: 80px;
+    text-align:center;
+    display: flex;
+    justify-content: space-between;
+}
+
+button:hover{
+    background-color: rgb(223, 222, 222);
+}
+
+.likes{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}

@@ -1,0 +1,27 @@
+.select-color {
+    position: relative;
+    height: 30px;
+    width: 269px;
+padding: 10px 0;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+
+.select-color .range {
+    height: 10px;
+    width: 255px;
+    border-radius: 3px;
+    
+}
+
+.select-color .selector{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 7px;
+    border-radius: 50%;
+    outline: 1.2px solid gray;
+    outline-offset: 1px;
+    
+}

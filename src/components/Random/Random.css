@@ -1,0 +1,10 @@
+.random{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+    width: 60%;
+    /* justify-content: space-around; */
+    /* padding: 0;
+    margin: 10px; */
+}

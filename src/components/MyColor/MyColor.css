@@ -1,0 +1,14 @@
+.circle{
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+    border-radius: 50%;
+}
+label{
+    margin-top: 5px;
+    border-top: 1px solid gray;
+    width: fit-content;
+}
+.color{
+    display: grid;
+}

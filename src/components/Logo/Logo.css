@@ -1,0 +1,13 @@
+.logo{
+    display: flex;
+    padding: 0;
+    width: 20%;
+    margin: 0;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+/* img{
+    padding: 0;
+    margin: 0;
+} */
